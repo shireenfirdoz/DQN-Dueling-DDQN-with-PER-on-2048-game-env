@@ -12,7 +12,7 @@ b)	DQN : is an algorithm which calculates TD error using the difference between 
 
 # How To Run 
   1) go to project_directory
-  2) jupyter notebook
+  2) execute command jupyter notebook
   3) run DQN.ipynb 
   4) run Dueling_DQN.ipynb
   
